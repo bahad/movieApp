@@ -1,5 +1,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.defacto_interview">
+    <uses-permission android:name="android.permission.INTERNET" />
    <application
         android:label="defacto_interview"
         android:name="${applicationName}"
